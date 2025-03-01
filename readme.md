@@ -1,10 +1,12 @@
-# My SWOC 25 Contributions
+# My SWOC '25 Contributions 🚀
 
-Below is a list of my pull requests (PRs) contributed to various repositories as part of the Social Winter of Code (SWOC) program. 
+Below is a list of my pull requests (PRs) contributed to the **Social Winter of Code (SWOC) 2025** program. SWOC limits contributions to 6 projects, but I contributed to 9! The first 6 projects are my main contributions, and the next 3 are extras I worked on too.
 
 ## Contributions by Repository
 
-### Repository: [saismrutiranjan18/Tiffin_Fusion](https://github.com/saismrutiranjan18/Tiffin_Fusion)
+### 🌟 Main Contributions (My Top 6 Projects)
+
+#### 1. [saismrutiranjan18/Tiffin_Fusion](https://github.com/saismrutiranjan18/Tiffin_Fusion)
 1. [PR #9](https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/9)  
 2. [PR #11](https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/11)  
 3. [PR #12](https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/12)  
@@ -55,7 +57,7 @@ Below is a list of my pull requests (PRs) contributed to various repositories as
 48. [PR #395](https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/395)  
 49. [PR #396](https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/396)  
 
-### Repository: [PRIYESHSINGH24/DSA_SOLUTION_PLATFORM](https://github.com/PRIYESHSINGH24/DSA_SOLUTION_PLATFORM)
+#### 2. [PRIYESHSINGH24/DSA_SOLUTION_PLATFORM](https://github.com/PRIYESHSINGH24/DSA_SOLUTION_PLATFORM)
 50. [PR #356](https://github.com/PRIYESHSINGH24/DSA_SOLUTION_PLATFORM/pull/356)  
 51. [PR #357](https://github.com/PRIYESHSINGH24/DSA_SOLUTION_PLATFORM/pull/357)  
 52. [PR #358](https://github.com/PRIYESHSINGH24/DSA_SOLUTION_PLATFORM/pull/358)  
@@ -73,17 +75,17 @@ Below is a list of my pull requests (PRs) contributed to various repositories as
 64. [PR #597](https://github.com/PRIYESHSINGH24/DSA_SOLUTION_PLATFORM/pull/597)  
 65. [PR #622](https://github.com/PRIYESHSINGH24/DSA_SOLUTION_PLATFORM/pull/622)  
 
-### Repository: [Abhay-hack/Lumina](https://github.com/Abhay-hack/Lumina)
+#### 3. [Abhay-hack/Lumina](https://github.com/Abhay-hack/Lumina)
 66. [PR #139](https://github.com/Abhay-hack/Lumina/pull/139)  
 67. [PR #151](https://github.com/Abhay-hack/Lumina/pull/151)  
 68. [PR #160](https://github.com/Abhay-hack/Lumina/pull/160)  
 69. [PR #182](https://github.com/Abhay-hack/Lumina/pull/182)  
 
-### Repository: [garvitnegi17/planetoid](https://github.com/garvitnegi17/planetoid)
+#### 4. [garvitnegi17/planetoid](https://github.com/garvitnegi17/planetoid)
 70. [PR #32](https://github.com/garvitnegi17/planetoid/pull/32)  
 71. [PR #40](https://github.com/garvitnegi17/planetoid/pull/40)  
 
-### Repository: [sanchitc05/Trip-Tailor](https://github.com/sanchitc05/Trip-Tailor)
+#### 5. [sanchitc05/Trip-Tailor](https://github.com/sanchitc05/Trip-Tailor)
 72. [PR #14](https://github.com/sanchitc05/Trip-Tailor/pull/14)  
 73. [PR #17](https://github.com/sanchitc05/Trip-Tailor/pull/17)  
 74. [PR #26](https://github.com/sanchitc05/Trip-Tailor/pull/26)  
@@ -94,7 +96,7 @@ Below is a list of my pull requests (PRs) contributed to various repositories as
 79. [PR #108](https://github.com/sanchitc05/Trip-Tailor/pull/108)  
 80. [PR #154](https://github.com/sanchitc05/Trip-Tailor/pull/154)  
 
-### Repository: [SOMNATH0904/DevSphere](https://github.com/SOMNATH0904/DevSphere)
+#### 6. [SOMNATH0904/DevSphere](https://github.com/SOMNATH0904/DevSphere)
 81. [PR #262](https://github.com/SOMNATH0904/DevSphere/pull/262)  
 82. [PR #263](https://github.com/SOMNATH0904/DevSphere/pull/263)  
 83. [PR #285](https://github.com/SOMNATH0904/DevSphere/pull/285)  
@@ -126,16 +128,21 @@ Below is a list of my pull requests (PRs) contributed to various repositories as
 109. [PR #725](https://github.com/SOMNATH0904/DevSphere/pull/725)  
 110. [PR #728](https://github.com/SOMNATH0904/DevSphere/pull/728)  
 
-### Repository: [dhairyagothi/100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project)
+### 🎁 Extra Contributions
+
+
+#### 7. [dhairyagothi/100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project)
 111. [PR #330](https://github.com/dhairyagothi/100_days_100_web_project/pull/330)  
 112. [PR #350](https://github.com/dhairyagothi/100_days_100_web_project/pull/350)  
 
-### Repository: [Dishika18/InsightSync](https://github.com/Dishika18/InsightSync)
+#### 8. [Dishika18/InsightSync](https://github.com/Dishika18/InsightSync)
 113. [PR #12](https://github.com/Dishika18/InsightSync/pull/12)  
 
-### Repository: [vishantrathi/woolconnect](https://github.com/vishantrathi/woolconnect)
+#### 9. [vishantrathi/woolconnect](https://github.com/vishantrathi/woolconnect)
 114. [PR #17](https://github.com/vishantrathi/woolconnect/pull/17)  
 115. [PR #39](https://github.com/vishantrathi/woolconnect/pull/39)  
 
 ---
+
+
 This README showcases all my contributions in **SWOC 2025**. Looking forward to more collaborations and contributions! 🚀
