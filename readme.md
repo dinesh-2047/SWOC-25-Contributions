@@ -145,4 +145,4 @@ Below is a list of my pull requests (PRs) contributed to the **Social Winter of 
 ---
 
 
-This README showcases all my contributions in **SWOC 2025**. Looking forward to more collaborations and contributions! 🚀
+This README showcases all my contributions in **SWOC 2025**. 
